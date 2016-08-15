@@ -16,4 +16,9 @@ FOUNDATION_EXPORT const unsigned char QiNiuSdkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <QiNiuSdk/PublicHeader.h>
 
-
+#import <QiNiuSdk/QNConfiguration.h>
+#import <QiNiuSdk/QNFileRecorder.h>
+#import <QiNiuSdk/QNResponseInfo.h>
+#import <QiNiuSdk/QNUploadManager.h>
+#import <QiNiuSdk/QNUploadOption.h>
+#import <QiNiuSdk/QNUrlSafeBase64.h>
